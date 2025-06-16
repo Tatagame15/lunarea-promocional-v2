@@ -1,0 +1,11 @@
+{
+  "name": "luna",
+  "version": "1.0.0",
+  "description": "Servidor estático con soporte para streaming de video mp4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tatagame",
+  "license": "MIT"
+}
